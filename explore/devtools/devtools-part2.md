@@ -1,0 +1,2 @@
+1. Both num1 and num2 are strings when they are added. Because of this, they are concatenated instead of being summed.
+2. I would convert both num1 and num2 into numbers when they are added together in calculateSum() using parseInt().
