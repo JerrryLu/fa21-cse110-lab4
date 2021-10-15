@@ -47,11 +47,15 @@ F. true
 Boolean(2) will output the boolean true which is equal to the boolean true.  
 
 15. The === operator will return false when comparing different types while == will do a type conversion before comparing.  
- 
-17. The result will be the array that was passed in but with all its values multipled by 2 which will be [2,4,6]. The doSomething function was defined to return double the number that is inputted. This function is then passed in and used by the modifyArray function. The modifyArray function uses doSomething on each value of the original array and pushes it to a new array before returning the new array.
 
-19. 
-1
-4
-3
-2
+16. part2-question16.js
+ 
+17. The result will be the array that was passed in but with all its values multipled by 2 which will be [2,4,6]. The doSomething function was defined to return double the number that is inputted. This function is then passed in and used by the modifyArray function. The modifyArray function uses doSomething on each value of the original array and pushes it to a new array before returning the new array.  
+
+18. part2-question18.js
+
+19.   
+1  
+4  
+3  
+2  
